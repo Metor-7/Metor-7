@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Metor-7
-- 👀 I’m interested in mobile app development.
-- 🌱 I’m currently learning dart.
-- 💞️ I’m looking to collaborate on intresting mobile app projects.
-- 📫 How to reach me metorfrank28@gmail.com
-- ⚡ Fun fact: i like to play games.
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently learning SQL and power bi.
+- 💞️ I’m looking to collaborate on intresting data analytics projects.
+- 📫 How to reach me: metorfrank28@gmail.com
+- ⚡ Fun fact: i like to solve puzzles.
 
 <!---
 Metor-7/Metor-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
